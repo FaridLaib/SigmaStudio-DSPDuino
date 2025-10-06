@@ -27,3 +27,6 @@ https://github.com/MCUdude/SigmaDSP
 SigmaDSP.h — Handles communication and control of the ADAU1701.
 SigmaDSP_parameters.h — Contains the DSP program binary and address definitions exported from SigmaStudio.
 Wire (I²C) — Interface used for data transfer between the microcontroller and DSP.
+
+
+![IMG_8471](https://github.com/user-attachments/assets/3aebf091-40dc-4280-851f-b7ee66ea2d7f)
